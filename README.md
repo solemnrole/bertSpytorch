@@ -10,4 +10,4 @@ examples
 感谢苏剑林大佬实现的bert4keras，实现过程中很多地方参考了他的设计思路和源码部署思路，在此衷心感谢大佬们的无私奉献。
 
 名字由来
-bertSpytorch的出现也是基于他的灵感，S为sequence的缩写，也是本人姓的首字母，bert也鸣谢了大佬们的无私奉献，pytorch是最近使用框架的心头好，nice，bertSpytorch就出现了。
+bertSpytorch的出现也是基于bert4keras的灵感，S为sequence的缩写，也是本人姓的首字母，bert也鸣谢了大佬们的无私奉献，pytorch是最近使用框架的心头好，nice，bertSpytorch就出现了。
